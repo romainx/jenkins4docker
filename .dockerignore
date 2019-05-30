@@ -1,0 +1,8 @@
+# add git-ignore syntax here of things you don't want copied into docker image
+# - source: https://github.com/BretFisher/node-docker-good-defaults/blob/master/.dockerignore
+# - doc: https://docs.docker.com/engine/reference/builder/#dockerignore-file
+
+.git
+*Dockerfile*
+README.md
+build.sh
