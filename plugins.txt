@@ -1,14 +1,10 @@
 configuration-as-code:latest
 docker-commons:latest
 docker-workflow:latest
+docker-build-publish:latest
 github:latest
 github-api:latest
-github-branch-source:latest
-github-issues:latest
 github-oauth:latest
-github-organization-folder:latest
-github-pullrequest:latest
-github-pr-coverage-status:latest
 pipeline-build-step:latest
 pipeline-graph-analysis:latest
 pipeline-input-step:latest
